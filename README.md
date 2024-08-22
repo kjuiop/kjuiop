@@ -2,6 +2,7 @@
 
 
 ## [Medium 블로그](https://medium.com/@arneg0shua)
+- [업로드 서버 Kubernetes 전환기 With Nginx](https://medium.com/@arneg0shua/%EC%97%85%EB%A1%9C%EB%93%9C-%EC%84%9C%EB%B2%84-kubernets-%EC%A0%84%ED%99%98%EA%B8%B0-with-ngnix-7f01b622408f)
 - [파일 업로드 도중 배포를 진행해도 괜찮을까?-docker,kube 배포편](https://medium.com/@arneg0shua/파일-업로드-도중-배포를-진행해도-괜찮을까-docker-kube-배포편-c95d6852e98d)
 - [파일 업로드 도중 배포를 진행해도 괜찮을까?-Graceful shutdown 적용편](https://medium.com/@arneg0shua/파일-업로드-도중-배포를-진행해도-괜찮을까-graceful-shutdown-적용편-453ae9f29dd1)
 - [파일 업로드 도중 배포를 진행해도 괜찮을까?-애플리케이션 개발편](https://medium.com/@arneg0shua/http-upload-session-과-deploy-1-1f40a1531d99)
