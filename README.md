@@ -2,6 +2,10 @@
 
 
 ## [Medium 블로그](https://medium.com/@arneg0shua)
+- [100대 이상의 서버를 한 몸처럼, 분산시스템](https://medium.com/@arneg0shua/100대-이상의-서버를-한-몸처럼-분산시스템-0a9046f8cacc)
+- [레거시 프로젝트를 단계적으로 개선하기](https://medium.com/@arneg0shua/레거시-프로젝트를-단계적으로-개선하기-기술부채-저리갓-bec6a96178f1)
+- [Low Latency HLS에 대하여](https://medium.com/@arneg0shua/low-latency-hls-에-대하여-21890d70d9ae)
+- [고통을 양분이 되게 해주는 글또](https://medium.com/@arneg0shua/고통을-양분이-되게-해주는-글또-2dc315b8219f)
 - [Low Latency Live Streaming (Web RTC, CMAF)](https://medium.com/@arneg0shua/low-latency-live-streaming-web-rtc-cmaf-d461854c9bdb)
 - [HLS 와 ABR 을 통해 알아보는 라이브 스트리밍 원리](https://medium.com/@arneg0shua/hls-와-abr-을-통해-알아보는-라이브-스트리밍-원리-949e340d7514)
 - [NGINX 와 파일 업로드서버](https://medium.com/@arneg0shua/nginx-와-파일-업로드-서버-ebe109ed587b)
