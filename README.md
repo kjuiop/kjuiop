@@ -2,6 +2,8 @@
 
 
 ## [Medium 블로그](https://medium.com/@arneg0shua)
+- [WebSocket RFC6455 분석 및 Wireshark로 보는 패킷 — Go(Gorilla)](https://medium.com/@arneg0shua/websocket-rfc6455-%EB%B6%84%EC%84%9D-%EB%B0%8F-wireshark%EB%A1%9C-%EB%B3%B4%EB%8A%94-%ED%8C%A8%ED%82%B7-go-gorilla-83f60f96046a)
+- [K6 부하테스트로 웹 소켓 지연시간 문제 해결하기](https://medium.com/@arneg0shua/k6-부하테스트로-웹-소켓-지연시간-문제-해결하기-d1b6a6b450f1)
 - [100대 이상의 서버를 한 몸처럼, 분산시스템](https://medium.com/@arneg0shua/100대-이상의-서버를-한-몸처럼-분산시스템-0a9046f8cacc)
 - [레거시 프로젝트를 단계적으로 개선하기](https://medium.com/@arneg0shua/레거시-프로젝트를-단계적으로-개선하기-기술부채-저리갓-bec6a96178f1)
 - [Low Latency HLS에 대하여](https://medium.com/@arneg0shua/low-latency-hls-에-대하여-21890d70d9ae)
