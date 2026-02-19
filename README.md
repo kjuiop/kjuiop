@@ -12,7 +12,7 @@
 
 ---
 
-# Experience Snapshot
+# Experience
 
 ### Live Commerce / Streaming Platform
 - 실시간 채팅 서버 설계 및 구조 개선
