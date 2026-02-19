@@ -2,6 +2,8 @@
 
 
 ## [Medium 블로그](https://medium.com/@arneg0shua)
+- [결제 기능: 상태 기반 설계와 안정성 확보](https://medium.com/@arneg0shua/결제-기능-단순-성공-실패를-넘어-상태-기반-설계와-안정성-확보-3eb13741140e)
+- [운영 상황에서 어떻게 downtime 을 최소화하여 rds -> aurora 로 마이그레이션할 수 있을까?](https://medium.com/@arneg0shua/운영-상황에서-어떻게-downtime-을-최소화하여-rds-aurora-로-마이그레이션할-수-있을까-a1389ac10008)
 - [WebSocket RFC6455 분석 및 Wireshark로 보는 패킷 — Go(Gorilla)](https://medium.com/@arneg0shua/websocket-rfc6455-%EB%B6%84%EC%84%9D-%EB%B0%8F-wireshark%EB%A1%9C-%EB%B3%B4%EB%8A%94-%ED%8C%A8%ED%82%B7-go-gorilla-83f60f96046a)
 - [K6 부하테스트로 웹 소켓 지연시간 문제 해결하기](https://medium.com/@arneg0shua/k6-부하테스트로-웹-소켓-지연시간-문제-해결하기-d1b6a6b450f1)
 - [100대 이상의 서버를 한 몸처럼, 분산시스템](https://medium.com/@arneg0shua/100대-이상의-서버를-한-몸처럼-분산시스템-0a9046f8cacc)
@@ -21,8 +23,6 @@
 - [애플리케이션 로그에 장애 흔적이 없다면?](https://medium.com/@arneg0shua/애플리케이션-로그에-장애-흔적이-없다면-vi-활용편-d4e82c171e6f)
 - [대규모 채팅 아키텍처는 C10K 문제를 어떻게 해결할까?](https://catchdream.tistory.com/249)
 - [분산트랜스코딩으로 알아보는 Boss-Worker 아키텍처](https://catchdream.tistory.com/248)
+- [AV1, H.265 트랜스코딩 테스트](https://medium.com/catenoid/av1-h-265-트랜스코딩-테스트-17871538fcfd)
 
 <br />
-
-## 테크블로그
-- [AV1, H.265 트랜스코딩 테스트](https://medium.com/catenoid/av1-h-265-트랜스코딩-테스트-17871538fcfd)
