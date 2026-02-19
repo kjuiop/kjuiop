@@ -10,6 +10,7 @@
 | **Observability** | Prometheus, Grafana |
 | **Load Test** | k6, ngrinder |
 
+<br/>
 
 # Experience
 
@@ -27,12 +28,14 @@
 - 가격 정책 · 예약 · 장바구니 도메인 설계
 - 관리자 CMS 및 Backoffice 개발
 
+<br/>
 
 # Technical Writing
 
 - https://medium.com/@arneg0shua  
 - WebSocket, Distributed System, Low Latency Streaming, Graceful Shutdown, Memory Leak 분석 등
 
+<br/>
 
 # Contact
 
