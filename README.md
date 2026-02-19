@@ -1,28 +1,53 @@
-# Jake Blog
+# 👋 김정인 | Backend Engineer
 
+- WebSocket 실시간 채팅 Latency 13s → 103ms 개선
+- RDS → Aurora 전환 시 Downtime 3분 → 2초 단축
+- Kafka 기반 이벤트 아키텍처 및 결제 파이프라인 설계
+- Outbox / Inbox / Saga 기반 정합성 설계
+- k6 · Prometheus · Grafana 기반 성능 분석
 
-## [Medium 블로그](https://medium.com/@arneg0shua)
-- [결제 기능: 상태 기반 설계와 안정성 확보](https://medium.com/@arneg0shua/결제-기능-단순-성공-실패를-넘어-상태-기반-설계와-안정성-확보-3eb13741140e)
-- [운영 상황에서 어떻게 downtime 을 최소화하여 rds -> aurora 로 마이그레이션할 수 있을까?](https://medium.com/@arneg0shua/운영-상황에서-어떻게-downtime-을-최소화하여-rds-aurora-로-마이그레이션할-수-있을까-a1389ac10008)
-- [WebSocket RFC6455 분석 및 Wireshark로 보는 패킷 — Go(Gorilla)](https://medium.com/@arneg0shua/websocket-rfc6455-%EB%B6%84%EC%84%9D-%EB%B0%8F-wireshark%EB%A1%9C-%EB%B3%B4%EB%8A%94-%ED%8C%A8%ED%82%B7-go-gorilla-83f60f96046a)
-- [K6 부하테스트로 웹 소켓 지연시간 문제 해결하기](https://medium.com/@arneg0shua/k6-부하테스트로-웹-소켓-지연시간-문제-해결하기-d1b6a6b450f1)
-- [100대 이상의 서버를 한 몸처럼, 분산시스템](https://medium.com/@arneg0shua/100대-이상의-서버를-한-몸처럼-분산시스템-0a9046f8cacc)
-- [레거시 프로젝트를 단계적으로 개선하기](https://medium.com/@arneg0shua/레거시-프로젝트를-단계적으로-개선하기-기술부채-저리갓-bec6a96178f1)
-- [Low Latency HLS에 대하여](https://medium.com/@arneg0shua/low-latency-hls-에-대하여-21890d70d9ae)
-- [고통을 양분이 되게 해주는 글또](https://medium.com/@arneg0shua/고통을-양분이-되게-해주는-글또-2dc315b8219f)
-- [Low Latency Live Streaming (Web RTC, CMAF)](https://medium.com/@arneg0shua/low-latency-live-streaming-web-rtc-cmaf-d461854c9bdb)
-- [HLS 와 ABR 을 통해 알아보는 라이브 스트리밍 원리](https://medium.com/@arneg0shua/hls-와-abr-을-통해-알아보는-라이브-스트리밍-원리-949e340d7514)
-- [NGINX 와 파일 업로드서버](https://medium.com/@arneg0shua/nginx-와-파일-업로드-서버-ebe109ed587b)
-- [업로드 서버 Kubernetes 전환기 With Nginx](https://medium.com/@arneg0shua/%EC%97%85%EB%A1%9C%EB%93%9C-%EC%84%9C%EB%B2%84-kubernets-%EC%A0%84%ED%99%98%EA%B8%B0-with-ngnix-7f01b622408f)
-- [파일 업로드 도중 배포를 진행해도 괜찮을까?-docker,kube 배포편](https://medium.com/@arneg0shua/파일-업로드-도중-배포를-진행해도-괜찮을까-docker-kube-배포편-c95d6852e98d)
-- [파일 업로드 도중 배포를 진행해도 괜찮을까?-Graceful shutdown 적용편](https://medium.com/@arneg0shua/파일-업로드-도중-배포를-진행해도-괜찮을까-graceful-shutdown-적용편-453ae9f29dd1)
-- [파일 업로드 도중 배포를 진행해도 괜찮을까?-애플리케이션 개발편](https://medium.com/@arneg0shua/http-upload-session-과-deploy-1-1f40a1531d99)
-- [Go Context 를 활용하여 애플리케이션을 안전하게 종료하기](https://medium.com/@arneg0shua/go-context-를-활용하여-애플리케이션을-안전하게-종료하기-1e77b0098270)
-- [Golang에서 Map과 같은 참조타입을 다룰 때 주의해야할 점](https://medium.com/@arneg0shua/golang에서-map과-같은-참조타입을-다룰-때-주의해야할-점-dcd19125f9f9)
-- [Memory Leak 을 해결하기 위한 여정](https://medium.com/@arneg0shua/memory-leak-를-해결하기-위한-여정-e9979e7844c3)
-- [애플리케이션 로그에 장애 흔적이 없다면?](https://medium.com/@arneg0shua/애플리케이션-로그에-장애-흔적이-없다면-vi-활용편-d4e82c171e6f)
-- [대규모 채팅 아키텍처는 C10K 문제를 어떻게 해결할까?](https://catchdream.tistory.com/249)
-- [분산트랜스코딩으로 알아보는 Boss-Worker 아키텍처](https://catchdream.tistory.com/248)
-- [AV1, H.265 트랜스코딩 테스트](https://medium.com/catenoid/av1-h-265-트랜스코딩-테스트-17871538fcfd)
+---
 
-<br />
+# 🛠 Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Backend (Java)** | Java, Spring Boot, Spring Data JPA, Spring Security, Querydsl, Gradle |
+| **Backend (Go)** | Golang, Gin, Gorilla WebSocket |
+| **Database** | MySQL, Redis, MongoDB |
+| **Messaging** | Kafka, RabbitMQ, Zookeeper |
+| **Infra / DevOps** | Docker, Kubernetes, ArgoCD, AWS |
+| **Observability** | Prometheus, Grafana |
+| **Load Test** | k6, ngrinder |
+
+---
+
+# 🧩 Experience Snapshot
+
+### 🟣 Live Commerce / Streaming Platform
+- 실시간 채팅 서버 설계 및 구조 개선
+- CDN 이중화 및 트래픽 분기 설계
+- AWS DMS 기반 무중단 DB 전환
+
+### 🔵 Media Platform
+- 업로드 미들웨어 및 트랜스코더 서버 개발
+- Wowza Media Server Memory Leak 해결
+- Graceful Shutdown 및 Kubernetes 전환
+
+### 🟢 E-commerce Backend
+- 가격 정책 · 예약 · 장바구니 도메인 설계
+- 관리자 CMS 및 Backoffice 개발
+
+---
+
+# ✍️ Technical Writing
+
+- https://medium.com/@arneg0shua  
+- WebSocket, Distributed System, Low Latency Streaming, Graceful Shutdown, Memory Leak 분석 등
+
+---
+
+# 📫 Contact
+
+- 📧 arneg0shua@gmail.com
+- 🐙 https://github.com/kjuiop
