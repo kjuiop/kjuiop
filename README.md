@@ -1,4 +1,4 @@
-# 👋 김정인 | Backend Engineer
+# 김정인 | Backend Engineer
 
 - WebSocket 실시간 채팅 Latency 13s → 103ms 개선
 - RDS → Aurora 전환 시 Downtime 3분 → 2초 단축
@@ -8,7 +8,7 @@
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
@@ -22,32 +22,32 @@
 
 ---
 
-# 🧩 Experience Snapshot
+# Experience Snapshot
 
-### 🟣 Live Commerce / Streaming Platform
+### Live Commerce / Streaming Platform
 - 실시간 채팅 서버 설계 및 구조 개선
 - CDN 이중화 및 트래픽 분기 설계
 - AWS DMS 기반 무중단 DB 전환
 
-### 🔵 Media Platform
+### Media Platform
 - 업로드 미들웨어 및 트랜스코더 서버 개발
 - Wowza Media Server Memory Leak 해결
 - Graceful Shutdown 및 Kubernetes 전환
 
-### 🟢 E-commerce Backend
+### E-commerce Backend
 - 가격 정책 · 예약 · 장바구니 도메인 설계
 - 관리자 CMS 및 Backoffice 개발
 
 ---
 
-# ✍️ Technical Writing
+# Technical Writing
 
 - https://medium.com/@arneg0shua  
 - WebSocket, Distributed System, Low Latency Streaming, Graceful Shutdown, Memory Leak 분석 등
 
 ---
 
-# 📫 Contact
+# Contact
 
-- 📧 arneg0shua@gmail.com
-- 🐙 https://github.com/kjuiop
+- arneg0shua@gmail.com
+- https://github.com/kjuiop
