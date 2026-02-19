@@ -1,20 +1,10 @@
-# 김정인 | Backend Engineer
-
-- WebSocket 실시간 채팅 Latency 13s → 103ms 개선
-- RDS → Aurora 전환 시 Downtime 3분 → 2초 단축
-- Kafka 기반 이벤트 아키텍처 및 결제 파이프라인 설계
-- Outbox / Inbox / Saga 기반 정합성 설계
-- k6 · Prometheus · Grafana 기반 성능 분석
-
----
-
 # Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
 | **Backend (Java)** | Java, Spring Boot, Spring Data JPA, Spring Security, Querydsl, Gradle |
 | **Backend (Go)** | Golang, Gin, Gorilla WebSocket |
-| **Database** | MySQL, Redis, MongoDB |
+| **Database** | MySQL, Redis |
 | **Messaging** | Kafka, RabbitMQ, Zookeeper |
 | **Infra / DevOps** | Docker, Kubernetes, ArgoCD, AWS |
 | **Observability** | Prometheus, Grafana |
